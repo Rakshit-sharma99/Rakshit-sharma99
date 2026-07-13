@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <picture>
 
-<!--
-**Rakshit-sharma99/Rakshit-sharma99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/dark.svg">
 
-Here are some ideas to get you started:
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/light.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <img
+      alt="Rakshit Sharma"
+      src="./assets/dark.svg"
+      width="100%">
+
+  </picture>
+</p>
