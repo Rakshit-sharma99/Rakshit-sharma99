@@ -1,3 +1,5 @@
-<p align="center">
-  <img src="./assets/dark.svg" width="100%" alt="Rakshit Sharma Banner" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="portfolio.svg">
+  <source media="(prefers-color-scheme: light)" srcset="portfolio_light.svg">
+  <img alt="Rakshit Sharma's Portfolio" src="portfolio.svg">
+</picture>
